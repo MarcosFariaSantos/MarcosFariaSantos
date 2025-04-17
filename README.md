@@ -131,17 +131,17 @@ Sempre em busca de novos desafios, proucurando se atualizar com cursos e novas a
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="350"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarcosFariaSantos&show_icons=true&theme=transparent&theme=radical&locale=pt-br)" 
+    src="https://github-readme-stats.vercel.app/api?username=MarcosFariaSantos&show_icons=true&theme=radical&locale=pt-br" 
   />
 
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFariaSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    width="350"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFariaSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
