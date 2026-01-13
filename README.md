@@ -1,6 +1,6 @@
 ## Marcos Faria 🧑‍💻
 ** `Desenvolvedor FullStack` **
-Me chamo Marcos Faria, tenho 26 anos sou natural de Uberlandia, Minas Gerais. Estou cursando Analise e Desenvolvimento de Sistemas na Unipac.
+Me chamo Marcos Faria, tenho 27 anos sou natural de Uberlandia, Minas Gerais. Estou cursando Analise e Desenvolvimento de Sistemas na Unipac.
 Sempre em busca de novos desafios, proucurando se atualizar com cursos e novas aplicações. Instagram @marcosfariax, Email para contato..... marcosdefaria18@hotmail.com   ...
 
 ### 🤖 Linguagens e Tecnologias
